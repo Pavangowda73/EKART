@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-meatdata:
+metadata:
   name: ekart-deployment
   labels:
     app: ekart
